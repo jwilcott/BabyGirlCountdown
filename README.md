@@ -7,7 +7,7 @@ A cute pink pregnancy countdown site for a July 22, 2026 due date.
 - Days until due date
 - Current trimester
 - Fruit size comparison
-- Ultrasound upload spot saved in each visitor's browser local storage
+- Ultrasound keepsake photo shown directly in the countdown card
 
 ## GitHub Pages
 This project is ready to publish with GitHub Pages by serving `index.html` from the repository root.
